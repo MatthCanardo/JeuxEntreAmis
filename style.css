@@ -6,13 +6,14 @@ body{
 
 #beer{
     display: block;
-    width:200px;
-    height:200px;
+    width:150px;
+    height:150px;
     margin-left:auto;
     margin-right: auto;
 
 }
 h1 {
+    
     color: white;
     font-family: "dancing script";
     text-align: center;
@@ -137,9 +138,9 @@ a{
 
 .cadre{
     text-align: center;
-    color: #0F3869;
+    color: white;
     font-size:40px;
-    
+    background: none;
     display: flex;
     flex-wrap: wrap;
 }
