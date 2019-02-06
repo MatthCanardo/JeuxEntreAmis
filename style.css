@@ -1,0 +1,77 @@
+body{
+    background-color: #4370A5;
+    font-family: "source sans pro";
+}
+
+h1 {
+    color: white;
+    font-family: "dancing script";
+    text-align: center;
+    background-color: #0F3869;
+    padding: 20px;
+    font-size: 60px;
+    margin-top: 0%;
+}
+
+
+#entername1{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    
+}
+#entername2{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
+#entername3{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
+#entername4{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.pseudos{
+    text-align: center;
+}
+
+.forms{
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+    
+}
+
+.button{
+    background-color: green;
+    color: white;
+    font-size: 40px;
+}
+
+#biere{
+    width: 60px;
+    height: 60px;
+    padding-left: 10px;
+}
+
+.cadre{
+    text-align: center;
+    color: #0F3869;
+    font-size:40px;
+    background-color: #B2CFF2;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.game{
+    text-align: center;
+}
+
+#jeu{
+    text-align: center;
+}
