@@ -1,0 +1,158 @@
+body{
+    background-image: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);
+    font-family: "source sans pro";
+    background-size: cover;
+}
+
+#beer{
+    display: block;
+    width:200px;
+    height:200px;
+    margin-left:auto;
+    margin-right: auto;
+
+}
+h1 {
+    color: white;
+    font-family: "dancing script";
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    margin-top: 0%;
+    
+}
+
+#enterNumberPlayers{
+    font-size: 30px;
+    text-align: center;
+}
+
+.players{
+    text-align: center;
+}
+
+
+#entername1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: lighter;
+    
+    
+}
+#entername2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: lighter;
+    
+}
+#entername3{
+    text-align: center;
+    font-size: 30px;
+    font-weight: lighter;
+    
+}
+#entername4{
+    text-align: center;
+    font-size: 30px;
+    font-weight: lighter;
+    
+}
+#entername5{
+    text-align: center;
+    font-size: 30px;
+    font-weight: lighter;
+    
+}
+
+#entername6{
+    text-align: center;
+    font-size: 30px;
+    font-weight: lighter;
+    
+}
+
+#entername7{
+    text-align: center;
+    font-size: 30px;
+    font-weight: lighter;
+    
+}
+
+#entername8{
+    text-align: center;
+    font-size: 30px;
+    font-weight: lighter;
+    
+}
+
+a{
+    text-align: center;
+    font-size: 15px;
+    border-style: solid;
+    border-width: 1px;
+    color: white;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    text-decoration : none;
+    border-radius: 10px;
+
+}
+
+.addplayer{
+    text-align: center;
+    margin-top:5px;
+}
+
+.pseudos{
+    text-align: center;
+}
+
+.forms{
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+    
+    
+}
+
+.button{
+    margin-top:10px;
+    color:white;
+    background : none;
+    font-size:40px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    font-weight: lighter;
+}
+
+#biere{
+    width: 60px;
+    height: 60px;
+    padding-left: 10px;
+}
+
+.cadre{
+    text-align: center;
+    color: #0F3869;
+    font-size:40px;
+    
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.game{
+    text-align: center;
+}
+
+#jeu{
+    text-align: center;
+}
+
+#add{
+    width: 90px;
+    height: 50px;
+}
